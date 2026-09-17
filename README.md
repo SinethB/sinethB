@@ -1,4 +1,4 @@
-## Hi, I'm Anuja Bandara, a Computer Engineering student.
+## Hi, I'm Anuja Bandara, AI Engineer and Analyst.
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SinethB)
