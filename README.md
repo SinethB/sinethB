@@ -9,7 +9,7 @@
 **About me:**
 <img width="55%" align="right" alt="Github" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
-I'm currently expanding my skillset by delving into the fascinating world of computer vision and artificial intelligence.  In addition to my proficiency in programming languages like C, C++, Java, React, and Python, I hold a strong interest in deep learning, machine learning, and data analysis. Feel free to reach out at chamathkabandara48@gmail.com.  
+I'm currently expanding my skillset by delving into the fascinating world of computer vision and artificial intelligence.  In addition to my proficiency in programming languages like C, C++, Java, React, and Python, I hold a strong interest in deep learning, machine learning, and data analysis. Feel free to reach out at chamathkabandara48@gmail.com or anujabandararm@gmail.com.  
 
 #
 **Languages and Tools:** 
