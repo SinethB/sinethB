@@ -23,11 +23,9 @@ I'm currently expanding my skillset by delving into the fascinating world of com
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br />
+</p>  
 
-  #
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent)](https://github.com/SinethB/github-readme-stats)
-  <a>
+
     <img width="55%" align="right" alt="SinethB's github stats" src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent" />
-  </a>
-  #
-</p>
+
