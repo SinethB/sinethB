@@ -1,14 +1,15 @@
 ## Hi, I'm Anuja Bandara, AI Engineer and Analyst.
 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SinethB)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chamathkabandara48@gmail.com)
 &nbsp;
 
 **About me:**
-<img width="55%" align="right" alt="GitHub profile" src="https://github.com/SinethB.png" />
+<img width="55%" align="right" alt="Github" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
-I'm currently expanding my skillset by delving into the fascinating world of computer vision and artificial intelligence. In addition to my proficiency in programming languages like C, C++, Java, Python, and web development frameworks, I am deeply passionate about creating innovative solutions that make a positive impact.
+I'm currently expanding my skillset by delving into the fascinating world of computer vision and artificial intelligence.  In addition to my proficiency in programming languages like C, C++, Java, React, and Python, I hold a strong interest in deep learning, machine learning, and data analysis. Feel free to reach out at chamathkabandara48@gmail.com or anujabandararm@gmail.com.  
 
 #
 **Languages and Tools:** 
@@ -28,6 +29,5 @@ I'm currently expanding my skillset by delving into the fascinating world of com
   <a>
     <img width="55%" align="right" alt="SinethB's github stats" src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent" />
   </a>
-
   #
 </p>
