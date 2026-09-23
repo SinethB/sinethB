@@ -25,7 +25,7 @@ I'm currently expanding my skillset by delving into the fascinating world of com
   <br />
 </p>  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent)](https://github.com/SinethB/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent)](https://github.com/SinethB/github-readme-stats)
 
-    <img width="55%" align="right" alt="SinethB's github stats" src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent" />
+![SinethB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent)
 
