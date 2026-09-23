@@ -28,4 +28,12 @@ I'm currently expanding my skillset by delving into the fascinating world of com
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent)](https://github.com/SinethB/github-readme-stats)
 
 ![SinethB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent)
+</p>
+
+<p>
+  <a href="https://github.com/SinethB/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="SinethB's GitHub stats" />
+</p>
 
